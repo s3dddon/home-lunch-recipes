@@ -1,25 +1,8 @@
-HOME LUNCH RECIPES - READY FOR GITHUB PAGES
+HOME LUNCH LIBRARY — V3 COMPLETE
 
-ارفع هذه الملفات الخمسة إلى جذر المستودع:
-index.html
-recipe.html
-styles.css
-recipes.js
-README.txt
+100 bilingual recipe cards (Arabic + English).
+All R001–R100 now contain usable ingredients and cooking steps; no placeholder recipe cards remain.
+Selected video-based recipes use verified video links where available. Other recipes use the curated house method plus YouTube search references until a specific video is approved.
+Future edits do not change recipe URLs.
 
-ثم:
-Settings > Pages > Build and deployment > Deploy from a branch
-Branch: main
-Folder: /root
-Save
-
-الرابط العام سيكون غالبًا:
-https://USERNAME.github.io/home-lunch-recipes/
-
-ورابط R001:
-https://USERNAME.github.io/home-lunch-recipes/recipe.html?id=R001
-
-ملاحظة:
-R001-R010 تحتوي حاليًا على تفاصيل أولية.
-R011-R100 موجودة في المكتبة بروابط ثابتة وقابلة لتحديث المقادير والخطوات لاحقًا
-دون تغيير الرابط، وبالتالي يمكن الاحتفاظ بنفس QR مستقبلًا.
+Upload these five files to the root of the GitHub Pages repository, replacing the existing files.

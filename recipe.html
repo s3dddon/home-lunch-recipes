@@ -3,6 +3,19 @@
 <title>Recipe</title><link rel="stylesheet" href="styles.css"></head><body><main class="wrap">
 <a class="back" href="index.html">← العودة للمكتبة | Back to Library</a><div id="root"></div>
 </main><script src="recipes.js"></script><script>
+function yt(q){return 'https://www.youtube.com/results?search_query='+encodeURIComponent(q)}
+function methodBasis(r){
+ if(r.methodBasis==='video') return `<div class="method-basis video-based"><b>طريقة مبنية على الفيديو المختار | Method based on selected video</b><span class="enstep">The written recipe follows the selected video, adjusted to 4 standard portions where needed.</span></div>`;
+ return `<div class="method-basis house-based"><b>وصفة البيت الأساسية | House Base Recipe</b><span class="enstep">No sufficiently clear matching video has been verified yet, so the established house method is kept. The video is a visual reference only.</span></div>`;
+}
+function defaultVariations(r){
+ const c=r.category;
+ if(c==='chicken') return [['يمكن زيادة أو تقليل التحمير والبهارات حسب الرغبة.','Adjust browning and spices to taste.'],['يمكن إضافة خضار مناسبة إذا كانت متوفرة دون تغيير الطريقة الأساسية.','Suitable available vegetables may be added without changing the basic method.']];
+ if(c==='meat'||c==='minced') return [['اختاري درجة التحمير وكمية الصوص حسب الرغبة.','Adjust browning and sauce amount to taste.'],['يمكن تغيير بعض البهارات أو الخضار حسب المتوفر.','Spices or vegetables may be adjusted according to what is available.']];
+ if(c==='fish'||c==='shrimp'||c==='tuna') return [['يمكن زيادة الليمون أو الثوم أو التوابل حسب الرغبة.','Adjust lemon, garlic or seasoning to taste.'],['تجنبي المبالغة في الطبخ حتى لا يجف السمك أو الروبيان.','Avoid overcooking so the fish or shrimp stays moist.']];
+ if(c==='pasta') return [['يمكن جعل الصوص أخف أو أكثر كريمية حسب الرغبة.','Make the sauce lighter or creamier to taste.'],['يمكن إضافة خضار أو جبن مناسب حسب المتوفر.','Suitable vegetables or cheese may be added if available.']];
+ return [['يمكن تعديل البهارات والخضار قليلًا حسب الرغبة والمتوفر.','Spices and vegetables may be adjusted slightly to taste and availability.'],['حافظي على المكونات الأساسية وطريقة الطبخ الرئيسية للطبق.','Keep the main ingredients and core cooking method of the dish.']];
+}
 const id=new URLSearchParams(location.search).get('id')||'R001',r=RECIPES.find(x=>x.code===id),root=document.getElementById('root');
 if(!r){root.innerHTML='<div class="recipe">الوصفة غير موجودة | Recipe not found</div>'}
 else{document.title=`${r.code} - ${r.ar} | ${r.en}`;
@@ -10,9 +23,15 @@ root.innerHTML=`<article class="recipe">
 <div class="code">${r.code}</div><h1>${r.ar}</h1><h2 dir="ltr" style="text-align:left">${r.en}</h2>
 <div class="meta"><span>${r.servings}</span><span>التحضير | Prep: ${r.prep}</span><span>الطبخ | Cooking: ${r.cook}</span></div>
 ${r.code>'R010'?'<div class="notice">هذه الوصفة مدرجة الآن، وسيتم تحسين المقادير والخطوات مع الاستخدام اليومي دون تغيير رابط الصفحة. | This recipe will be refined during daily use without changing its page URL.</div>':''}
+${methodBasis(r)}
 <h3>المقادير | Ingredients</h3><table><thead><tr><th>العربية</th><th dir="ltr">English</th></tr></thead>
 <tbody>${r.ingredients.map(x=>`<tr><td>${x[0]}</td><td dir="ltr" style="text-align:left">${x[1]}</td></tr>`).join('')}</tbody></table>
 <h3>طريقة العمل | Instructions</h3><ol>${r.steps.map(x=>`<li>${x[0]}<span class="enstep">${x[1]}</span></li>`).join('')}</ol>
+<h3>خيارات وتعديلات | Optional Variations</h3>
+<div class="variations"><ul>${(r.variations||defaultVariations(r)).map(x=>`<li>${x[0]}<span class="enstep">${x[1]}</span></li>`).join('')}</ul></div>
+<h3>🎥 فيديوهات الوصفة | Recipe Videos</h3>
+<div class="video-note">${r.methodBasis==='video'?'الفيديو الأول هو مرجع الطريقة المكتوبة. يمكن إجراء تعديلات بسيطة حسب الرغبة والمكونات المتوفرة.':'لم نجد بعد فيديوًا واضحًا بما يكفي لبناء الطريقة عليه؛ لذلك تبقى طريقتنا الأساسية، والفيديوهات للمساعدة البصرية.'}<span class="enstep">${r.methodBasis==='video'?'Video 1 is the reference for the written method. Small adjustments may be made to taste and available ingredients.':'Until a sufficiently clear video is verified, keep the house method and use videos only as visual guidance.'}</span></div>
+<div class="video-buttons"><a class="video-btn" target="_blank" rel="noopener" href="${r.video1||yt(r.ar+' وصفة طريقة عمل')}">🎥 فيديو عربي | Arabic Video</a><a class="video-btn alt" target="_blank" rel="noopener" href="${r.video2||yt(r.en+' recipe')}">🎥 فيديو إنجليزي | English Video</a></div>
 <h3>رابط هذه الوصفة | Recipe Link</h3><p dir="ltr" style="text-align:left;word-break:break-all">${location.href}</p>
 </article>`}
 </script></body></html>
