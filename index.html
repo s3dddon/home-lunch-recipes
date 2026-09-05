@@ -1,0 +1,25 @@
+<!doctype html><html lang="ar" dir="rtl"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>دليل غداء البيت | Home Lunch Guide</title><link rel="stylesheet" href="styles.css"></head><body>
+<header><div class="wrap"><h1>دليل غداء البيت</h1><div class="sub">Home Lunch Guide — 100 Recipes</div></div></header>
+<main class="wrap">
+<div class="controls">
+<input id="q" placeholder="ابحث باسم الطبق أو الرقم | Search recipe or code">
+<select id="cat">
+<option value="">كل الأقسام | All</option>
+<option value="chicken">دجاج | Chicken</option><option value="meat">لحم | Meat</option>
+<option value="minced">لحم مفروم | Minced Meat</option><option value="fish">سمك | Fish</option>
+<option value="shrimp">روبيان | Shrimp</option><option value="tuna">تونة | Tuna</option>
+<option value="vegetables">خضار | Vegetables</option><option value="pasta">مكرونة/عجين | Pasta/Dough</option>
+</select></div>
+<div id="count" class="sub"></div><div id="grid" class="grid"></div>
+</main><footer>يمكن تعديل الوصفات لاحقًا دون تغيير رابطها أو QR.</footer>
+<script src="recipes.js"></script><script>
+const grid=document.getElementById('grid'),q=document.getElementById('q'),cat=document.getElementById('cat'),count=document.getElementById('count');
+const labels={chicken:'دجاج | Chicken',meat:'لحم | Meat',minced:'لحم مفروم | Minced Meat',fish:'سمك | Fish',shrimp:'روبيان | Shrimp',tuna:'تونة | Tuna',vegetables:'خضار | Vegetables',pasta:'مكرونة/عجين | Pasta/Dough'};
+function render(){let s=q.value.trim().toLowerCase(),c=cat.value;
+let rows=RECIPES.filter(r=>(!c||r.category===c)&&(!s||r.code.toLowerCase().includes(s)||r.ar.includes(s)||r.en.toLowerCase().includes(s)));
+count.textContent=`${rows.length} وصفة | ${rows.length} recipes`;
+grid.innerHTML=rows.map(r=>`<a class="card" href="recipe.html?id=${r.code}"><div class="code">${r.code}</div><div class="ar">${r.ar}</div><div class="en" dir="ltr">${r.en}</div><span class="badge">${labels[r.category]||r.category}</span></a>`).join('')}
+q.oninput=render;cat.onchange=render;render();
+</script></body></html>

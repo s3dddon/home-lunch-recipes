@@ -1,0 +1,18 @@
+<!doctype html><html lang="ar" dir="rtl"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Recipe</title><link rel="stylesheet" href="styles.css"></head><body><main class="wrap">
+<a class="back" href="index.html">← العودة للمكتبة | Back to Library</a><div id="root"></div>
+</main><script src="recipes.js"></script><script>
+const id=new URLSearchParams(location.search).get('id')||'R001',r=RECIPES.find(x=>x.code===id),root=document.getElementById('root');
+if(!r){root.innerHTML='<div class="recipe">الوصفة غير موجودة | Recipe not found</div>'}
+else{document.title=`${r.code} - ${r.ar} | ${r.en}`;
+root.innerHTML=`<article class="recipe">
+<div class="code">${r.code}</div><h1>${r.ar}</h1><h2 dir="ltr" style="text-align:left">${r.en}</h2>
+<div class="meta"><span>${r.servings}</span><span>التحضير | Prep: ${r.prep}</span><span>الطبخ | Cooking: ${r.cook}</span></div>
+${r.code>'R010'?'<div class="notice">هذه الوصفة مدرجة الآن، وسيتم تحسين المقادير والخطوات مع الاستخدام اليومي دون تغيير رابط الصفحة. | This recipe will be refined during daily use without changing its page URL.</div>':''}
+<h3>المقادير | Ingredients</h3><table><thead><tr><th>العربية</th><th dir="ltr">English</th></tr></thead>
+<tbody>${r.ingredients.map(x=>`<tr><td>${x[0]}</td><td dir="ltr" style="text-align:left">${x[1]}</td></tr>`).join('')}</tbody></table>
+<h3>طريقة العمل | Instructions</h3><ol>${r.steps.map(x=>`<li>${x[0]}<span class="enstep">${x[1]}</span></li>`).join('')}</ol>
+<h3>رابط هذه الوصفة | Recipe Link</h3><p dir="ltr" style="text-align:left;word-break:break-all">${location.href}</p>
+</article>`}
+</script></body></html>
