@@ -21,7 +21,7 @@ const id=new URLSearchParams(location.search).get('id')||'R001',r=RECIPES.find(x
 if(!r){root.innerHTML='<div class="recipe">الوصفة غير موجودة | Recipe not found</div>'}
 else{document.title=`${r.code} - ${r.ar} | ${r.en}`;
 root.innerHTML=`<article class="recipe">
-<div class="code">${r.code}</div><h1>${r.ar}</h1><h2 dir="ltr" style="text-align:left">${r.en}</h2>
+<div class="code">${r.code}</div><h1>${r.ar}</h1><h2 dir="ltr" style="text-align:left">${r.en}</h2><figure class="hero-figure"><img class="hero-img" src="${r.image||''}" alt="${r.ar}"><figcaption>صورة من الفيديو المعتمد | Image from the selected recipe video</figcaption></figure>
 <div class="meta"><span>${r.servings}</span><span>التحضير | Prep: ${r.prep}</span><span>الطبخ | Cooking: ${r.cook}</span></div>
 ${methodBasis(r)}
 <h3>المقادير | Ingredients</h3><table><thead><tr><th>العربية</th><th dir="ltr">English</th></tr></thead>

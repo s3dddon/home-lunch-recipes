@@ -12,14 +12,16 @@
 <option value="shrimp">روبيان | Shrimp</option><option value="tuna">تونة | Tuna</option>
 <option value="vegetables">خضار | Vegetables</option><option value="pasta">مكرونة/عجين | Pasta/Dough</option><option value="pressure">قدر الضغط | Pressure Cooker</option><option value="sandwich">ساندوتشات ومشاوي | Sandwiches & Grills</option>
 </select></div>
-<div id="count" class="sub"></div><div id="grid" class="grid"></div>
+<section class="today"><h2>🍽️ ماذا نطبخ اليوم؟ <span dir="ltr">What shall we cook today?</span></h2><div id="todayGrid" class="today-grid"></div></section><div id="count" class="sub"></div><div id="grid" class="grid"></div>
 </main><footer>يمكن تعديل الوصفات لاحقًا دون تغيير رابطها .</footer>
 <script src="recipes.js"></script><script>
-const grid=document.getElementById('grid'),q=document.getElementById('q'),cat=document.getElementById('cat'),count=document.getElementById('count');
+const grid=document.getElementById('grid'),todayGrid=document.getElementById('todayGrid'),q=document.getElementById('q'),cat=document.getElementById('cat'),count=document.getElementById('count');
 const labels={chicken:'دجاج | Chicken',meat:'لحم | Meat',minced:'لحم مفروم | Minced Meat',fish:'سمك | Fish',shrimp:'روبيان | Shrimp',tuna:'تونة | Tuna',vegetables:'خضار | Vegetables',pasta:'مكرونة/عجين | Pasta/Dough',pressure:'قدر الضغط | Pressure Cooker',sandwich:'ساندوتشات ومشاوي | Sandwiches & Grills'};
 function render(){let s=q.value.trim().toLowerCase(),c=cat.value;
 let rows=RECIPES.filter(r=>(!c||r.category===c)&&(!s||r.code.toLowerCase().includes(s)||r.ar.includes(s)||r.en.toLowerCase().includes(s)));
 count.textContent=`${rows.length} وصفة | ${rows.length} recipes`;
-grid.innerHTML=rows.map(r=>`<a class="card" href="recipe.html?id=${r.code}"><div class="code">${r.code}</div><div class="ar">${r.ar}</div><div class="en" dir="ltr">${r.en}</div><span class="badge">${labels[r.category]||r.category}</span></a>`).join('')}
+grid.innerHTML=rows.map(r=>`<a class="card" href="recipe.html?id=${r.code}"><img class="card-img" src="${r.image||''}" alt="${r.ar}" loading="lazy"><div class="card-body"><div class="code">${r.code}</div><div class="ar">${r.ar}</div><div class="en" dir="ltr">${r.en}</div><span class="badge">${labels[r.category]||r.category}</span></div></a>`).join('')}
+function renderToday(){const picks=[...RECIPES].sort(()=>Math.random()-.5).slice(0,6);todayGrid.innerHTML=picks.map(r=>`<a class="today-card" href="recipe.html?id=${r.code}"><img src="${r.image||''}" alt="${r.ar}"><b>${r.ar}</b><span>${r.code}</span></a>`).join('')}
+renderToday();
 q.oninput=render;cat.onchange=render;render();
 </script></body></html>

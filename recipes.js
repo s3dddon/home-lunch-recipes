@@ -109,7 +109,11 @@ window.RECIPES = [
         "حمري الدجاج في الفرن 220°C لمدة 8–12 دقيقة ثم ضعيه فوق الأرز.",
         "Brown chicken at 220°C for 8–12 minutes, then place over rice."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/NfxGIj3H6xc/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R002",
@@ -189,7 +193,11 @@ window.RECIPES = [
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=t90TCnBqPY4",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/t90TCnBqPY4/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R003",
@@ -253,7 +261,11 @@ window.RECIPES = [
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=_w-9ybSugtE",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/_w-9ybSugtE/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R004",
@@ -329,7 +341,11 @@ window.RECIPES = [
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=2A19-bUkpCI",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/2A19-bUkpCI/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R005",
@@ -405,7 +421,11 @@ window.RECIPES = [
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=AdGWhKK9PM8",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/AdGWhKK9PM8/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R006",
@@ -465,7 +485,11 @@ window.RECIPES = [
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=WlZZioPM-uY",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/WlZZioPM-uY/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R007",
@@ -525,7 +549,11 @@ window.RECIPES = [
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=k1Trtuf9_N8",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/k1Trtuf9_N8/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R008",
@@ -597,7 +625,11 @@ window.RECIPES = [
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=xP-PasGVz2Q",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/xP-PasGVz2Q/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R009",
@@ -657,7 +689,11 @@ window.RECIPES = [
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=gUsDzh25tqo",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/gUsDzh25tqo/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R010",
@@ -717,7 +753,11 @@ window.RECIPES = [
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=694bAoGhySc",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/694bAoGhySc/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R011",
@@ -726,64 +766,71 @@ window.RECIPES = [
     "en": "Chicken Madhbi",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "35–50 دقيقة | 35–50 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
-      ],
-      [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
-      ],
-      [
         "2 م ك زيت",
         "2 tbsp oil"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ك عصير ليمون",
+        "1 tbsp lemon juice"
+      ],
+      [
+        "1 م ص بابريكا",
+        "1 tsp paprika"
+      ],
+      [
+        "1 م ص كمون",
+        "1 tsp cumin"
       ],
       [
         "½ م ص فلفل أسود",
         "½ tsp black pepper"
       ],
       [
+        "½ م ص كزبرة مطحونة",
+        "½ tsp ground coriander"
+      ],
+      [
         "ملح حسب الحاجة",
         "Salt as needed"
+      ],
+      [
+        "ملح خشن للشوي",
+        "Coarse salt for grilling"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "اخلطي الزيت والليمون والبهارات وادهني الدجاج واتركيه 30 دقيقة.",
+        "Mix oil, lemon and spices; coat chicken and rest 30 minutes."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "سخني سطح الشوي أو صينية ثقيلة، وافردي طبقة من الملح الخشن ثم ضعي الدجاج فوقها دون أن يلامس اللهب مباشرة.",
+        "Heat a heavy grill/pan, spread coarse salt and place chicken over it away from direct flame."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "اطهي على نار متوسطة مع التقليب حتى ينضج الدجاج تمامًا ويأخذ تحميرًا واضحًا.",
+        "Cook over medium heat, turning, until fully cooked and well browned."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=ZHLlX7hAlvs",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/ZHLlX7hAlvs/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R012",
@@ -792,8 +839,8 @@ window.RECIPES = [
     "en": "Chicken Machboos",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
@@ -804,24 +851,44 @@ window.RECIPES = [
         "2½ cups Basmati rice"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "1 بصلة كبيرة",
+        "1 large onion"
+      ],
+      [
+        "2 طماطم",
+        "2 tomatoes"
+      ],
+      [
+        "2 م ك معجون طماطم",
+        "2 tbsp tomato paste"
       ],
       [
         "3 فصوص ثوم",
         "3 garlic cloves"
       ],
       [
+        "1 لومي",
+        "1 dried lime"
+      ],
+      [
+        "4 حبات هيل",
+        "4 cardamom pods"
+      ],
+      [
+        "4 حبات قرنفل",
+        "4 cloves"
+      ],
+      [
+        "1 عود قرفة",
+        "1 cinnamon stick"
+      ],
+      [
+        "1 م ص بهار مجبوس",
+        "1 tsp machboos spice"
+      ],
+      [
         "2 م ك زيت",
         "2 tbsp oil"
-      ],
-      [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
-      ],
-      [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
       ],
       [
         "ملح حسب الحاجة",
@@ -830,34 +897,37 @@ window.RECIPES = [
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "انقعي الأرز 20 دقيقة ثم صفيه.",
+        "Soak rice 20 minutes, then drain."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "حمري البصل بالزيت، ثم أضيفي الثوم والبهارات والطماطم والمعجون والدجاج.",
+        "Brown onion in oil; add garlic, spices, tomatoes, paste and chicken."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "أضيفي ماء ساخنًا واطهي الدجاج حتى يقارب النضج ثم ارفعيه.",
+        "Add hot water and cook chicken until nearly done, then remove."
       ],
       [
-        "اطهي الأرز بالمرق على نار هادئة حتى يمتص السائل ويصبح مفلفلًا.",
-        "Cook rice in broth over low heat until liquid is absorbed and grains are fluffy."
+        "اضبطي المرق، أضيفي الأرز واطهيه حتى يتشرب ثم غطيه على نار هادئة 18–20 دقيقة.",
+        "Adjust broth, add rice; cook until absorbed, then cover on low 18–20 minutes."
+      ],
+      [
+        "حمري الدجاج وقدميه فوق الأرز.",
+        "Brown chicken and serve over rice."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=9RW0i33wRvk",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/9RW0i33wRvk/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R013",
@@ -916,14 +986,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=5OnbW2UZAew",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/5OnbW2UZAew/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R014",
@@ -932,36 +1001,56 @@ window.RECIPES = [
     "en": "Chicken Biryani",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "2½ كوب أرز بسمتي",
-        "2½ cups Basmati rice"
+        "3 أكواب أرز بسمتي",
+        "3 cups Basmati rice"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "2 بصل شرائح",
+        "2 sliced onions"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "3 م ك زبادي",
+        "3 tbsp yogurt"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "1 م ص زنجبيل مبشور",
+        "1 tsp grated ginger"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ص جارام ماسالا",
+        "1 tsp garam masala"
       ],
       [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
+        "1 م ص بابريكا",
+        "1 tsp paprika"
+      ],
+      [
+        "1 م ص كاري",
+        "1 tsp curry powder"
+      ],
+      [
+        "1 م ص كزبرة مطحونة",
+        "1 tsp ground coriander"
+      ],
+      [
+        "¼ كوب كزبرة خضراء",
+        "¼ cup fresh coriander"
+      ],
+      [
+        "رشة زعفران منقوعة في 3 م ك ماء دافئ",
+        "Pinch saffron soaked in 3 tbsp warm water"
+      ],
+      [
+        "2 م ك زيت أو سمن",
+        "2 tbsp oil or ghee"
       ],
       [
         "ملح حسب الحاجة",
@@ -970,34 +1059,37 @@ window.RECIPES = [
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "انقعي الأرز 20 دقيقة. تبلي الدجاج بالزبادي والزنجبيل والبهارات 30 دقيقة.",
+        "Soak rice 20 minutes. Marinate chicken with yogurt, ginger and spices for 30 minutes."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "حمري البصل حتى يصبح ذهبيًا واحتفظي بجزء للتزيين.",
+        "Fry onions until golden; reserve some for garnish."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "اطهي الدجاج مع التتبيلة حتى ينضج ويتكثف الصوص.",
+        "Cook chicken with marinade until done and sauce thickens."
       ],
       [
-        "اطهي الأرز بالمرق على نار هادئة حتى يمتص السائل ويصبح مفلفلًا.",
-        "Cook rice in broth over low heat until liquid is absorbed and grains are fluffy."
+        "اسلقي الأرز حتى 70% ثم صفيه.",
+        "Parboil rice to about 70%, then drain."
+      ],
+      [
+        "رتبي الدجاج والأرز طبقات، أضيفي الزعفران والبصل والكزبرة، وغطي على نار هادئة 20 دقيقة.",
+        "Layer chicken and rice; add saffron, onion and coriander; cover on low 20 minutes."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=SwcNqzD373I",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/SwcNqzD373I/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R015",
@@ -1052,14 +1144,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=PQGXY7GbV_E",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/PQGXY7GbV_E/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R016",
@@ -1068,36 +1159,48 @@ window.RECIPES = [
     "en": "Chicken Maqluba",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "2½ كوب أرز بسمتي",
-        "2½ cups Basmati rice"
+        "2 كوب أرز بسمتي",
+        "2 cups Basmati rice"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "1 باذنجان كبير شرائح",
+        "1 large eggplant, sliced"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "½ زهرة قرنبيط",
+        "½ cauliflower"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "2 بطاطس شرائح",
+        "2 potatoes, sliced"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "2 طماطم شرائح",
+        "2 tomatoes, sliced"
+      ],
+      [
+        "1 م ص بهار مشكل",
+        "1 tsp mixed spice"
+      ],
+      [
+        "½ م ص قرفة",
+        "½ tsp cinnamon"
       ],
       [
         "½ م ص فلفل أسود",
         "½ tsp black pepper"
+      ],
+      [
+        "2 م ك زيت",
+        "2 tbsp oil"
       ],
       [
         "ملح حسب الحاجة",
@@ -1106,34 +1209,37 @@ window.RECIPES = [
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "انقعي الأرز 20 دقيقة. حمري أو اخبزي الباذنجان والبطاطس والقرنبيط حتى تلين وتتحمر قليلًا.",
+        "Soak rice 20 minutes. Fry or bake eggplant, potatoes and cauliflower until lightly browned."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "اطهي الدجاج في ماء متبل حتى ينضج واحتفظي بالمرق.",
+        "Cook chicken in seasoned water until done; reserve broth."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "في قدر، رتبي الطماطم ثم الدجاج والخضار ثم الأرز.",
+        "Layer tomatoes, chicken, vegetables and rice in a pot."
       ],
       [
-        "اطهي الأرز بالمرق على نار هادئة حتى يمتص السائل ويصبح مفلفلًا.",
-        "Cook rice in broth over low heat until liquid is absorbed and grains are fluffy."
+        "أضيفي المرق بمقدار مناسب للأرز، ارفعيه للغليان ثم غطي على نار هادئة 20 دقيقة.",
+        "Add enough broth for the rice, bring to boil, then cover on low 20 minutes."
+      ],
+      [
+        "اتركيها 10 دقائق ثم اقلبيها بحذر.",
+        "Rest 10 minutes, then invert carefully."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=E0JZ-4IO76U",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/E0JZ-4IO76U/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R017",
@@ -1142,28 +1248,32 @@ window.RECIPES = [
     "en": "Chicken Musakhan",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "45–60 دقيقة | 45–60 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "4 أرغفة خبز طابون أو تنور",
+        "4 taboon or tannour breads"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "4 بصلات كبيرة شرائح",
+        "4 large onions, sliced"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "½ كوب زيت زيتون",
+        "½ cup olive oil"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "4 م ك سماق + إضافي للتقديم",
+        "4 tbsp sumac + extra to serve"
+      ],
+      [
+        "1 م ص بهار مشكل",
+        "1 tsp mixed spice"
       ],
       [
         "½ م ص فلفل أسود",
@@ -1172,34 +1282,45 @@ window.RECIPES = [
       [
         "ملح حسب الحاجة",
         "Salt as needed"
+      ],
+      [
+        "¼ كوب صنوبر أو لوز محمص اختياري",
+        "¼ cup toasted pine nuts or almonds, optional"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "تبلي الدجاج بالملح والفلفل والبهار وقليل من السماق ثم اطهيه أو اشويه حتى ينضج ويتحمر.",
+        "Season chicken with salt, pepper, spice and some sumac; roast until cooked and browned."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "اطهي البصل ببطء في زيت الزيتون على نار متوسطة-هادئة حتى يذبل ويصبح حلوًا دون أن يجف.",
+        "Cook onions slowly in olive oil over medium-low until soft and sweet, not dry."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "أطفئي النار وأضيفي معظم السماق إلى البصل وقلبي.",
+        "Turn off heat and mix most of the sumac into the onions."
+      ],
+      [
+        "ادهني خبز الطابون بزيت البصل ووزعي فوقه خليط البصل والسماق.",
+        "Brush taboon bread with onion oil and spread onion-sumac mixture over it."
+      ],
+      [
+        "ضعي الدجاج فوق الخبز، رشي سماقًا إضافيًا والمكسرات وقدميه ساخنًا.",
+        "Top with chicken, extra sumac and nuts; serve hot."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=p_nWYpEY0v0",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/p_nWYpEY0v0/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R018",
@@ -1258,14 +1379,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=n9C7EZ7eUQk",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/n9C7EZ7eUQk/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R019",
@@ -1274,32 +1394,44 @@ window.RECIPES = [
     "en": "Chicken Fatteh",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "3 أرغفة خبز عربي مقطع ومحمص",
+        "3 Arabic breads, cut and toasted"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "2 كوب زبادي",
+        "2 cups yogurt"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "2 م ك طحينة",
+        "2 tbsp tahini"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "2 فص ثوم مهروس",
+        "2 garlic cloves, crushed"
       ],
       [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
+        "1 م ك عصير ليمون",
+        "1 tbsp lemon juice"
+      ],
+      [
+        "1 كوب حمص مسلوق",
+        "1 cup cooked chickpeas"
+      ],
+      [
+        "½ كوب مرق دجاج",
+        "½ cup chicken broth"
+      ],
+      [
+        "2 م ك صنوبر محمص",
+        "2 tbsp toasted pine nuts"
       ],
       [
         "ملح حسب الحاجة",
@@ -1308,30 +1440,37 @@ window.RECIPES = [
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "اطهي الدجاج وقطعيه أو فتتيه واحتفظي بقليل من المرق.",
+        "Cook chicken, shred or slice it, and reserve some broth."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "اخلطي الزبادي والطحينة والثوم والليمون والملح.",
+        "Mix yogurt, tahini, garlic, lemon and salt."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "ضعي الخبز المحمص في طبق ورشي عليه قليلًا من المرق دون إغراقه.",
+        "Place toasted bread in dish and moisten lightly with broth."
+      ],
+      [
+        "أضيفي الحمص والدجاج ثم خليط الزبادي.",
+        "Add chickpeas and chicken, then yogurt mixture."
+      ],
+      [
+        "زيني بالصنوبر وقدمي فورًا.",
+        "Garnish with pine nuts and serve immediately."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=SKLVdmgzz8w",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/SKLVdmgzz8w/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R020",
@@ -1390,14 +1529,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=KTj_LwBmCno",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/KTj_LwBmCno/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R021",
@@ -1406,64 +1544,67 @@ window.RECIPES = [
     "en": "Molokhia with Chicken",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "500 غ ملوخية مفرومة",
+        "500 g chopped molokhia"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "4 أكواب مرق دجاج",
+        "4 cups chicken broth"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "5 فصوص ثوم مهروس",
+        "5 garlic cloves, crushed"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ك كزبرة ناشفة",
+        "1 tbsp ground coriander"
       ],
       [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
+        "1 م ك سمن أو زيت",
+        "1 tbsp ghee or oil"
       ],
       [
-        "ملح حسب الحاجة",
-        "Salt as needed"
+        "ملح وفلفل أسود",
+        "Salt and black pepper"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "اطهي الدجاج في ماء متبل حتى ينضج واحتفظي بالمرق.",
+        "Cook chicken in seasoned water until done; reserve broth."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "سخني المرق حتى الغليان الخفيف ثم أضيفي الملوخية وقلبي دون غلي قوي.",
+        "Bring broth to a gentle simmer; add molokhia and stir without hard boiling."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "حمري الثوم والكزبرة في السمن حتى تفوح الرائحة ثم أضيفيهما للملوخية.",
+        "Sauté garlic and coriander in ghee until fragrant, then add to molokhia."
+      ],
+      [
+        "اضبطي الملح واتركيها دقائق قليلة فقط ثم قدميها مع الدجاج والأرز.",
+        "Adjust salt; cook only a few minutes, then serve with chicken and rice."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=MbwSJbD1oLE",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/MbwSJbD1oLE/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R022",
@@ -1518,14 +1659,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=lrh3KA2F3_U",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/lrh3KA2F3_U/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R023",
@@ -1580,14 +1720,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=WQJKE-eIwmY",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/WQJKE-eIwmY/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R024",
@@ -1642,14 +1781,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=NClECS0VpEI",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/NClECS0VpEI/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R025",
@@ -1704,14 +1842,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=8NdfxS7Ikcw",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/8NdfxS7Ikcw/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R026",
@@ -1766,14 +1903,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=vnRUb8Sxj4M",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/vnRUb8Sxj4M/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R027",
@@ -1828,14 +1964,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=tK0o52i-h3A",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/tK0o52i-h3A/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R028",
@@ -1890,14 +2025,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=9WtvYvOfb64",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/9WtvYvOfb64/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R029",
@@ -1952,14 +2086,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=t_y74gbhFts",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/t_y74gbhFts/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R030",
@@ -2014,14 +2147,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=9CIt-qZKImc",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/9CIt-qZKImc/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R031",
@@ -2030,32 +2162,52 @@ window.RECIPES = [
     "en": "Chicken & Potato Tray",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "55–65 دقيقة | 55–65 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "4 بطاطس شرائح",
+        "4 potatoes, sliced"
+      ],
+      [
+        "1 بصلة شرائح",
+        "1 onion, sliced"
+      ],
+      [
+        "2 طماطم شرائح",
+        "2 tomatoes, sliced"
+      ],
+      [
+        "1 فلفل رومي شرائح",
+        "1 bell pepper, sliced"
       ],
       [
         "3 فصوص ثوم",
         "3 garlic cloves"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "2 م ك زيت زيتون",
+        "2 tbsp olive oil"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ص بابريكا",
+        "1 tsp paprika"
+      ],
+      [
+        "½ م ص كمون",
+        "½ tsp cumin"
       ],
       [
         "½ م ص فلفل أسود",
         "½ tsp black pepper"
+      ],
+      [
+        "1 كوب مرق",
+        "1 cup broth"
       ],
       [
         "ملح حسب الحاجة",
@@ -2064,30 +2216,33 @@ window.RECIPES = [
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "سخني الفرن إلى 200°م. رتبي البطاطس والبصل والطماطم والفلفل في الصينية.",
+        "Heat oven to 200°C. Arrange potatoes, onion, tomatoes and pepper in tray."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "تبلي الدجاج والخضار بالثوم والزيت والبهارات.",
+        "Season chicken and vegetables with garlic, oil and spices."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "أضيفي المرق وغطي الصينية بإحكام.",
+        "Add broth and cover tightly."
+      ],
+      [
+        "اخبزي 40 دقيقة، ثم اكشفيها واستمري 15–20 دقيقة حتى تتحمر وينضج البطاطس والدجاج.",
+        "Bake 40 minutes covered, then 15–20 minutes uncovered until browned and fully cooked."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=xXaxH83jNUs",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/xXaxH83jNUs/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R032",
@@ -2142,14 +2297,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=Usbsd5Sn1zU",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/Usbsd5Sn1zU/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R033",
@@ -2158,28 +2312,44 @@ window.RECIPES = [
     "en": "Chicken & Vegetable Tray",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "1 كوسا",
+        "1 zucchini"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "2 جزر",
+        "2 carrots"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "1 فلفل رومي",
+        "1 bell pepper"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 بصلة",
+        "1 onion"
+      ],
+      [
+        "2 بطاطس",
+        "2 potatoes"
+      ],
+      [
+        "2 م ك زيت زيتون",
+        "2 tbsp olive oil"
+      ],
+      [
+        "1 م ص بابريكا",
+        "1 tsp paprika"
+      ],
+      [
+        "½ م ص ثوم بودرة",
+        "½ tsp garlic powder"
       ],
       [
         "½ م ص فلفل أسود",
@@ -2192,30 +2362,33 @@ window.RECIPES = [
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "سخني الفرن إلى 200°م وقطعي الخضار قطعًا متقاربة الحجم.",
+        "Heat oven to 200°C and cut vegetables into similar-sized pieces."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "اخلطي الدجاج والخضار بالزيت والبهارات.",
+        "Toss chicken and vegetables with oil and spices."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "وزعيها بطبقة واحدة وغطي 30 دقيقة.",
+        "Spread in one layer and cover for 30 minutes."
+      ],
+      [
+        "اكشفي الصينية واخبزي 20–25 دقيقة إضافية حتى يتحمر الدجاج والخضار.",
+        "Uncover and bake 20–25 minutes more until chicken and vegetables brown."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=mShkaloQQh4",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/mShkaloQQh4/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R034",
@@ -2224,28 +2397,32 @@ window.RECIPES = [
     "en": "Oven-Roasted Chicken",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "45–60 دقيقة | 45–60 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "2 م ك زيت زيتون",
+        "2 tbsp olive oil"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "1 م ك عصير ليمون",
+        "1 tbsp lemon juice"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "4 فصوص ثوم مهروس",
+        "4 garlic cloves, crushed"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ص بابريكا",
+        "1 tsp paprika"
+      ],
+      [
+        "1 م ص بهار دجاج",
+        "1 tsp chicken seasoning"
       ],
       [
         "½ م ص فلفل أسود",
@@ -2258,30 +2435,33 @@ window.RECIPES = [
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "سخني الفرن إلى 210°م. جففي الدجاج جيدًا.",
+        "Heat oven to 210°C. Pat chicken dry."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "اخلطي الزيت والليمون والثوم والبهارات وادهني الدجاج من كل الجهات.",
+        "Mix oil, lemon, garlic and spices; coat chicken all over."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "اخبزي حتى ينضج الدجاج تمامًا، ثم شغلي الشواية العلوية 3–5 دقائق للتحمير.",
+        "Bake until fully cooked, then broil 3–5 minutes to brown."
+      ],
+      [
+        "اتركيه 5–10 دقائق قبل التقديم حتى تحتفظ العصارة داخله.",
+        "Rest 5–10 minutes before serving to retain juices."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=ms5Cz-c4TCM",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/ms5Cz-c4TCM/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R035",
@@ -2290,28 +2470,40 @@ window.RECIPES = [
     "en": "Creamy Mushroom Chicken",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "250 غ فطر شرائح",
+        "250 g sliced mushrooms"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "1 بصلة صغيرة",
+        "1 small onion"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "2 فص ثوم",
+        "2 garlic cloves"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 كوب كريمة طبخ",
+        "1 cup cooking cream"
+      ],
+      [
+        "½ كوب مرق دجاج",
+        "½ cup chicken broth"
+      ],
+      [
+        "1 م ك زبدة",
+        "1 tbsp butter"
+      ],
+      [
+        "1 م ك زيت",
+        "1 tbsp oil"
       ],
       [
         "½ م ص فلفل أسود",
@@ -2324,30 +2516,33 @@ window.RECIPES = [
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "حمري الدجاج بالزيت على نار متوسطة-عالية ثم ارفعيه.",
+        "Brown chicken in oil over medium-high heat, then remove."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "أضيفي الزبدة والبصل والفطر واطهي حتى يتبخر ماء الفطر ويبدأ بالتحمير.",
+        "Add butter, onion and mushrooms; cook until mushroom liquid evaporates and browns."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "أضيفي الثوم والمرق ثم الكريمة وخففي النار.",
+        "Add garlic and broth, then cream; lower heat."
+      ],
+      [
+        "أعيدي الدجاج واتركيه 8–12 دقيقة حتى ينضج ويتكثف الصوص.",
+        "Return chicken and simmer 8–12 minutes until cooked and sauce thickens."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=0A3e0V3nw2A",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/0A3e0V3nw2A/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R036",
@@ -2356,32 +2551,48 @@ window.RECIPES = [
     "en": "Butter Chicken",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "3 م ك زبادي",
+        "3 tbsp yogurt"
+      ],
+      [
+        "1 م ص جارام ماسالا",
+        "1 tsp garam masala"
+      ],
+      [
+        "1 م ص بابريكا",
+        "1 tsp paprika"
+      ],
+      [
+        "½ م ص كركم",
+        "½ tsp turmeric"
+      ],
+      [
+        "1 م ص زنجبيل مبشور",
+        "1 tsp grated ginger"
       ],
       [
         "3 فصوص ثوم",
         "3 garlic cloves"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "2 م ك زبدة",
+        "2 tbsp butter"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 كوب طماطم مطحونة",
+        "1 cup crushed tomatoes"
       ],
       [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
+        "¾ كوب كريمة طبخ",
+        "¾ cup cooking cream"
       ],
       [
         "ملح حسب الحاجة",
@@ -2390,30 +2601,33 @@ window.RECIPES = [
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "تبلي الدجاج بالزبادي ونصف البهارات 30 دقيقة.",
+        "Marinate chicken in yogurt and half the spices for 30 minutes."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "حمري الدجاج في ملعقة زبدة ثم ارفعيه.",
+        "Brown chicken in 1 tbsp butter, then remove."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "أضيفي بقية الزبدة والثوم والزنجبيل والطماطم والبهارات واطهي 8 دقائق.",
+        "Add remaining butter, garlic, ginger, tomatoes and spices; cook 8 minutes."
+      ],
+      [
+        "أضيفي الكريمة ثم الدجاج واتركيه على نار هادئة 10–12 دقيقة حتى يصبح الصوص كريميًا.",
+        "Add cream and chicken; simmer 10–12 minutes until creamy."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=tC0xxAnPyEA",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/tC0xxAnPyEA/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R037",
@@ -2422,32 +2636,48 @@ window.RECIPES = [
     "en": "Chicken Tikka",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "20–30 دقيقة | 20–30 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "½ كوب زبادي",
+        "½ cup yogurt"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "1 م ك عصير ليمون",
+        "1 tbsp lemon juice"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "1 م ص جارام ماسالا",
+        "1 tsp garam masala"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ص بابريكا",
+        "1 tsp paprika"
       ],
       [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
+        "½ م ص كمون",
+        "½ tsp cumin"
+      ],
+      [
+        "½ م ص كركم",
+        "½ tsp turmeric"
+      ],
+      [
+        "1 م ص زنجبيل مبشور",
+        "1 tsp grated ginger"
+      ],
+      [
+        "2 فص ثوم",
+        "2 garlic cloves"
+      ],
+      [
+        "1 م ك زيت",
+        "1 tbsp oil"
       ],
       [
         "ملح حسب الحاجة",
@@ -2456,30 +2686,33 @@ window.RECIPES = [
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "اخلطي الزبادي والليمون والبهارات والثوم والزنجبيل والزيت.",
+        "Mix yogurt, lemon, spices, garlic, ginger and oil."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "تبلي الدجاج ساعتين على الأقل.",
+        "Marinate chicken at least 2 hours."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "اشوي على حرارة عالية أو في فرن 220°م مع التقليب حتى تظهر حواف محمرة.",
+        "Grill over high heat or bake at 220°C, turning until edges char lightly."
+      ],
+      [
+        "تأكدي من نضج الدجاج وقدميه فورًا.",
+        "Ensure chicken is fully cooked and serve immediately."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=Xjow0Y2TLjs",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/Xjow0Y2TLjs/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R038",
@@ -2488,76 +2721,79 @@ window.RECIPES = [
     "en": "Chicken Fajitas",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
-        "دجاج",
-        "Chicken"
+        "دجاج شرائح",
+        "Chicken strips"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "1 بصلة شرائح",
+        "1 onion, sliced"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "1 فلفل أحمر شرائح",
+        "1 red bell pepper, sliced"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "1 فلفل أخضر شرائح",
+        "1 green bell pepper, sliced"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ك زيت",
+        "1 tbsp oil"
       ],
       [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
+        "1 م ص بابريكا",
+        "1 tsp paprika"
+      ],
+      [
+        "½ م ص كمون",
+        "½ tsp cumin"
+      ],
+      [
+        "½ م ص ثوم بودرة",
+        "½ tsp garlic powder"
+      ],
+      [
+        "1 م ك عصير ليمون",
+        "1 tbsp lemon juice"
       ],
       [
         "ملح حسب الحاجة",
         "Salt as needed"
-      ],
-      [
-        "1 فلفل رومي أحمر شرائح",
-        "1 red bell pepper, sliced"
-      ],
-      [
-        "1 فلفل رومي أخضر شرائح",
-        "1 green bell pepper, sliced"
-      ],
-      [
-        "1 م ص كمون",
-        "1 tsp cumin"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "سخني مقلاة واسعة جدًا على نار عالية وأضيفي الزيت.",
+        "Heat a wide skillet over high heat and add oil."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "حمري شرائح الدجاج سريعًا حتى تأخذ لونًا ثم ارفعيها مؤقتًا.",
+        "Sear chicken strips quickly until colored, then remove."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "أضيفي البصل والفلفل وقلبي 3–4 دقائق ليبقيا مقرمشين قليلًا.",
+        "Cook onion and peppers 3–4 minutes so they stay slightly crisp."
+      ],
+      [
+        "أعيدي الدجاج وأضيفي البهارات والليمون وقلبي 2–3 دقائق.",
+        "Return chicken; add spices and lemon and toss 2–3 minutes."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=FMcmSuWWoxw",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/FMcmSuWWoxw/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R039",
@@ -2566,64 +2802,83 @@ window.RECIPES = [
     "en": "Homemade Chicken Shawarma",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
-        "دجاج",
-        "Chicken"
+        "دجاج شرائح رفيعة",
+        "Thin chicken strips"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "½ كوب زبادي",
+        "½ cup yogurt"
+      ],
+      [
+        "2 م ك عصير ليمون",
+        "2 tbsp lemon juice"
+      ],
+      [
+        "1 م ك خل",
+        "1 tbsp vinegar"
       ],
       [
         "3 فصوص ثوم",
         "3 garlic cloves"
       ],
       [
+        "1 م ص بابريكا",
+        "1 tsp paprika"
+      ],
+      [
+        "1 م ص كمون",
+        "1 tsp cumin"
+      ],
+      [
+        "½ م ص كركم",
+        "½ tsp turmeric"
+      ],
+      [
+        "½ م ص قرفة",
+        "½ tsp cinnamon"
+      ],
+      [
         "2 م ك زيت",
         "2 tbsp oil"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
-      ],
-      [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
-      ],
-      [
-        "ملح حسب الحاجة",
-        "Salt as needed"
+        "ملح وفلفل",
+        "Salt and pepper"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "اخلطي مكونات التتبيلة وانقعي الدجاج ساعتين على الأقل.",
+        "Mix marinade ingredients and marinate chicken at least 2 hours."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "سخني صاجًا أو مقلاة واسعة على نار عالية جدًا.",
+        "Heat a griddle or wide pan over very high heat."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "اطهي الدجاج على دفعات حتى يتحمر بدل أن يسلق في عصارته.",
+        "Cook chicken in batches so it browns instead of steaming."
+      ],
+      [
+        "قدميه في خبز مع الثوم والمخلل حسب الرغبة.",
+        "Serve in bread with garlic sauce and pickles as desired."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=N1KPH50bYP0",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/N1KPH50bYP0/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R040",
@@ -2632,28 +2887,36 @@ window.RECIPES = [
     "en": "Shish Tawook",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
-        "دجاج",
-        "Chicken"
+        "دجاج مكعبات",
+        "Chicken cubes"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "½ كوب زبادي",
+        "½ cup yogurt"
+      ],
+      [
+        "2 م ك عصير ليمون",
+        "2 tbsp lemon juice"
+      ],
+      [
+        "2 م ك زيت زيتون",
+        "2 tbsp olive oil"
       ],
       [
         "3 فصوص ثوم",
         "3 garlic cloves"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "1 م ك معجون طماطم",
+        "1 tbsp tomato paste"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ص بابريكا",
+        "1 tsp paprika"
       ],
       [
         "½ م ص فلفل أسود",
@@ -2662,34 +2925,37 @@ window.RECIPES = [
       [
         "ملح حسب الحاجة",
         "Salt as needed"
+      ],
+      [
+        "فلفل وبصل للأسياخ",
+        "Bell pepper and onion for skewers"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "اخلطي التتبيلة وانقعي الدجاج 2–4 ساعات.",
+        "Mix marinade and marinate chicken 2–4 hours."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "ركبي الدجاج مع الفلفل والبصل في الأسياخ.",
+        "Thread chicken, peppers and onion onto skewers."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "اشوي على نار متوسطة-عالية مع التقليب حتى تظهر علامات الشوي وينضج الدجاج.",
+        "Grill over medium-high heat, turning until marked and cooked through."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=AQufjDBLG2g",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/AQufjDBLG2g/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R041",
@@ -2744,14 +3010,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=fw8tBK4LcHc",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/fw8tBK4LcHc/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R042",
@@ -2806,14 +3071,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=cfIWTjfKecA",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/cfIWTjfKecA/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R043",
@@ -2868,14 +3132,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=AGPAIE1eBTk",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/AGPAIE1eBTk/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R044",
@@ -2930,14 +3193,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=SYy5uCNkVfY",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/SYy5uCNkVfY/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R045",
@@ -2992,14 +3254,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=lKLu6DsOEmo",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/lKLu6DsOEmo/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R046",
@@ -3054,14 +3315,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=ac4dn-0khv8",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/ac4dn-0khv8/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R047",
@@ -3116,14 +3376,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=UiaNGIfrEv4",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/UiaNGIfrEv4/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R048",
@@ -3178,14 +3437,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=5w_tmeHoVHQ",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/5w_tmeHoVHQ/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R049",
@@ -3240,14 +3498,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=ixDpe_FQNqs",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/ixDpe_FQNqs/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R050",
@@ -3302,14 +3559,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=DsOwb02_dn8",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/DsOwb02_dn8/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R051",
@@ -3356,14 +3612,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=j0YyIk772Xw",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/j0YyIk772Xw/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R052",
@@ -3418,14 +3673,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=KDKvCtaCpZ4",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/KDKvCtaCpZ4/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R053",
@@ -3480,14 +3734,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=tjcfOWn83wc",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/tjcfOWn83wc/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R054",
@@ -3562,14 +3815,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=02JZqiXRfAI",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/02JZqiXRfAI/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R055",
@@ -3644,14 +3896,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=fVDsTP-pTXs",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/fVDsTP-pTXs/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R056",
@@ -3710,14 +3961,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=yShBC-G-jrQ",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/yShBC-G-jrQ/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R057",
@@ -3776,14 +4026,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=4ddqQiV3t8U",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/4ddqQiV3t8U/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R058",
@@ -3842,14 +4091,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=SIL-brdJgi4",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/SIL-brdJgi4/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R059",
@@ -3904,14 +4152,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=bw5JGBx7Nww",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/bw5JGBx7Nww/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R060",
@@ -3970,14 +4217,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=ROtel9AGEKM",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/ROtel9AGEKM/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R061",
@@ -4036,14 +4282,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=h8R0babnvTk",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/h8R0babnvTk/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R062",
@@ -4102,14 +4347,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=1AWogeo0ZIA",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/1AWogeo0ZIA/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R063",
@@ -4168,14 +4412,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=VsW7PT62dyA",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/VsW7PT62dyA/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R064",
@@ -4234,14 +4477,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=CiUCTbx_4Tw",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/CiUCTbx_4Tw/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R065",
@@ -4300,14 +4542,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=w0dv9qgF9hw",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/w0dv9qgF9hw/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R066",
@@ -4366,14 +4607,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=fvRrYnHH6hM",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/fvRrYnHH6hM/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R067",
@@ -4432,14 +4672,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=H9jvXd_yEdc",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/H9jvXd_yEdc/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R068",
@@ -4498,14 +4737,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=6lNEF69kkNA",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/6lNEF69kkNA/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R069",
@@ -4560,14 +4798,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=eWv5GLLtR4o",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/eWv5GLLtR4o/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R070",
@@ -4622,14 +4859,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=ktPkCPMeKDA",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/ktPkCPMeKDA/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R071",
@@ -4700,14 +4936,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=RX6k_VjkM1M",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/RX6k_VjkM1M/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R072",
@@ -4766,14 +5001,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=TaUADlruM5c",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/TaUADlruM5c/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R073",
@@ -4832,14 +5066,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=jgcDE9Jh0OU",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/jgcDE9Jh0OU/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R074",
@@ -4886,14 +5119,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=Eo0rWfWOJBs",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/Eo0rWfWOJBs/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R075",
@@ -4948,14 +5180,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=blyngTJDvbI",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/blyngTJDvbI/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R076",
@@ -4964,64 +5195,67 @@ window.RECIPES = [
     "en": "Homemade Chicken Burger",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
-        "دجاج",
-        "Chicken"
+        "دجاج مفروم",
+        "Chicken mince"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "½ كوب بقسماط",
+        "½ cup breadcrumbs"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "1 بيضة",
+        "1 egg"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "½ بصلة مبشورة ومصفاة",
+        "½ onion, grated and drained"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ص بابريكا",
+        "1 tsp paprika"
       ],
       [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
+        "½ م ص ثوم بودرة",
+        "½ tsp garlic powder"
       ],
       [
-        "ملح حسب الحاجة",
-        "Salt as needed"
+        "ملح وفلفل",
+        "Salt and pepper"
+      ],
+      [
+        "خبز برجر وخس وطماطم",
+        "Burger buns, lettuce and tomato"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "اخلطي مكونات البرجر بخفة وشكلي أقراصًا متساوية.",
+        "Mix burger ingredients gently and shape equal patties."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "بردي الأقراص 15 دقيقة ثم اشويها على نار متوسطة-عالية حتى تنضج.",
+        "Chill patties 15 minutes, then grill over medium-high until cooked."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "حمصي الخبز وركبي البرجر مع الخس والطماطم والصوص.",
+        "Toast buns and assemble with lettuce, tomato and sauce."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=FGigHdnw60A",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/FGigHdnw60A/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R077",
@@ -5088,14 +5322,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=OWO5ZGlluw0",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/OWO5ZGlluw0/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R078",
@@ -5104,64 +5337,67 @@ window.RECIPES = [
     "en": "Chicken Tortilla Wrap",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
-        "دجاج",
-        "Chicken"
+        "دجاج شرائح",
+        "Chicken strips"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "4 خبز تورتيلا",
+        "4 tortillas"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "1 فلفل رومي",
+        "1 bell pepper"
+      ],
+      [
+        "1 بصلة",
+        "1 onion"
+      ],
+      [
+        "1 م ص بابريكا",
+        "1 tsp paprika"
+      ],
+      [
+        "½ م ص كمون",
+        "½ tsp cumin"
+      ],
+      [
+        "1 كوب جبن مبشور",
+        "1 cup shredded cheese"
       ],
       [
         "2 م ك زيت",
         "2 tbsp oil"
-      ],
-      [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
-      ],
-      [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
-      ],
-      [
-        "ملح حسب الحاجة",
-        "Salt as needed"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "حمري الدجاج مع البصل والفلفل والبهارات على نار عالية.",
+        "Sear chicken with onion, pepper and spices over high heat."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "وزعي الحشوة والجبن على التورتيلا.",
+        "Divide filling and cheese among tortillas."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "لفيها وحمريها على صاج حتى تصبح ذهبية.",
+        "Roll and toast on a griddle until golden."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=aRxxk4308E4",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/aRxxk4308E4/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R079",
@@ -5170,64 +5406,71 @@ window.RECIPES = [
     "en": "Homemade Crispy Chicken",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "1 كوب لبن رائب",
+        "1 cup buttermilk"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "1½ كوب دقيق أبيض متعدد الاستخدامات",
+        "1½ cups all-purpose flour"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "½ كوب نشا ذرة",
+        "½ cup cornstarch"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ص بابريكا",
+        "1 tsp paprika"
+      ],
+      [
+        "1 م ص ثوم بودرة",
+        "1 tsp garlic powder"
       ],
       [
         "½ م ص فلفل أسود",
         "½ tsp black pepper"
       ],
       [
-        "ملح حسب الحاجة",
-        "Salt as needed"
+        "ملح",
+        "Salt"
+      ],
+      [
+        "زيت للقلي",
+        "Oil for frying"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "انقعي الدجاج في اللبن والملح والبهارات 2 ساعة.",
+        "Marinate chicken in buttermilk, salt and spices for 2 hours."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "اخلطي الدقيق والنشا والبهارات وغلّفي الدجاج جيدًا.",
+        "Mix flour, cornstarch and spices; coat chicken well."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "اقلي على 170–175°م حتى يصبح ذهبيًا وينضج من الداخل.",
+        "Fry at 170–175°C until golden and cooked through."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=Qj-HD6ideFE",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/Qj-HD6ideFE/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R080",
@@ -5236,72 +5479,71 @@ window.RECIPES = [
     "en": "Chinese Chicken with Vegetables & Rice",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
-        "دجاج",
-        "Chicken"
+        "دجاج شرائح",
+        "Chicken strips"
       ],
       [
-        "2½ كوب أرز بسمتي",
-        "2½ cups Basmati rice"
+        "2 كوب أرز مطبوخ",
+        "2 cups cooked rice"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "1 فلفل رومي",
+        "1 bell pepper"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "1 جزرة",
+        "1 carrot"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "1 كوب بروكلي",
+        "1 cup broccoli"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "2 م ك صويا صوص",
+        "2 tbsp soy sauce"
       ],
       [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
+        "1 م ص زيت سمسم اختياري",
+        "1 tsp sesame oil, optional"
       ],
       [
-        "ملح حسب الحاجة",
-        "Salt as needed"
+        "2 فص ثوم",
+        "2 garlic cloves"
+      ],
+      [
+        "1 م ك زيت",
+        "1 tbsp oil"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "اطهي الأرز مسبقًا. سخني الووك على نار عالية.",
+        "Cook rice ahead. Heat wok over high heat."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "حمري الدجاج ثم أضيفي الخضار والثوم وقلبي سريعًا.",
+        "Sear chicken, then add vegetables and garlic and stir-fry quickly."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
-      ],
-      [
-        "اطهي الأرز بالمرق على نار هادئة حتى يمتص السائل ويصبح مفلفلًا.",
-        "Cook rice in broth over low heat until liquid is absorbed and grains are fluffy."
+        "أضيفي الصويا وزيت السمسم وقدميه مع الأرز.",
+        "Add soy and sesame oil; serve with rice."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=UJuye4ODMT8",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/UJuye4ODMT8/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R081",
@@ -5356,14 +5598,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=uUn7B0q-dyI",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/uUn7B0q-dyI/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R082",
@@ -5372,8 +5613,8 @@ window.RECIPES = [
     "en": "Chicken Madfoon",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
@@ -5384,60 +5625,63 @@ window.RECIPES = [
         "2½ cups Basmati rice"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "1 بصلة",
+        "1 onion"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "2 طماطم",
+        "2 tomatoes"
+      ],
+      [
+        "1 لومي",
+        "1 dried lime"
+      ],
+      [
+        "1 م ص بهار مدفون",
+        "1 tsp madfoon spice"
+      ],
+      [
+        "½ م ص كمون",
+        "½ tsp cumin"
       ],
       [
         "2 م ك زيت",
         "2 tbsp oil"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
-      ],
-      [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
-      ],
-      [
-        "ملح حسب الحاجة",
-        "Salt as needed"
+        "ملح",
+        "Salt"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "انقعي الأرز 20 دقيقة. حمري البصل ثم أضيفي الدجاج والبهارات.",
+        "Soak rice 20 minutes. Brown onion, then add chicken and spices."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "أضيفي الطماطم وماءً ساخنًا واطهي الدجاج حتى يقارب النضج.",
+        "Add tomatoes and hot water; cook chicken until nearly done."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "ارفعي الدجاج، اضبطي المرق وأضيفي الأرز ثم غطيه على نار هادئة 18–20 دقيقة.",
+        "Remove chicken, adjust broth, add rice and cover on low 18–20 minutes."
       ],
       [
-        "اطهي الأرز بالمرق على نار هادئة حتى يمتص السائل ويصبح مفلفلًا.",
-        "Cook rice in broth over low heat until liquid is absorbed and grains are fluffy."
+        "أعيدي الدجاج فوق الأرز واتركيه يرتاح 10 دقائق قبل التقديم.",
+        "Return chicken over rice and rest 10 minutes before serving."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=OqErOS6ciss",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/OqErOS6ciss/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R083",
@@ -5446,8 +5690,8 @@ window.RECIPES = [
     "en": "Chicken Kabli Rice",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
@@ -5458,60 +5702,71 @@ window.RECIPES = [
         "2½ cups Basmati rice"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "1 بصلة",
+        "1 onion"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "2 طماطم",
+        "2 tomatoes"
+      ],
+      [
+        "1 جزرة",
+        "1 carrot"
+      ],
+      [
+        "قشر ½ برتقالة مبشور",
+        "Zest of ½ orange"
+      ],
+      [
+        "1 م ص كمون",
+        "1 tsp cumin"
+      ],
+      [
+        "½ م ص قرفة",
+        "½ tsp cinnamon"
+      ],
+      [
+        "4 هيل",
+        "4 cardamom pods"
       ],
       [
         "2 م ك زيت",
         "2 tbsp oil"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
-      ],
-      [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
-      ],
-      [
-        "ملح حسب الحاجة",
-        "Salt as needed"
+        "ملح",
+        "Salt"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "انقعي الأرز 20 دقيقة. حمري البصل ثم أضيفي الدجاج والبهارات.",
+        "Soak rice 20 minutes. Brown onion, then add chicken and spices."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "أضيفي الطماطم وماءً ساخنًا واطهي الدجاج حتى يقارب النضج.",
+        "Add tomatoes and hot water; cook chicken until nearly done."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "ارفعي الدجاج، اضبطي المرق وأضيفي الأرز ثم غطيه على نار هادئة 18–20 دقيقة.",
+        "Remove chicken, adjust broth, add rice and cover on low 18–20 minutes."
       ],
       [
-        "اطهي الأرز بالمرق على نار هادئة حتى يمتص السائل ويصبح مفلفلًا.",
-        "Cook rice in broth over low heat until liquid is absorbed and grains are fluffy."
+        "أعيدي الدجاج فوق الأرز واتركيه يرتاح 10 دقائق قبل التقديم.",
+        "Return chicken over rice and rest 10 minutes before serving."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=4lgIug-nKwc",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/4lgIug-nKwc/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R084",
@@ -5614,14 +5869,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=mW5HLJKNR2o",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/mW5HLJKNR2o/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R085",
@@ -5680,14 +5934,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=UKm_OAy23l4",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/UKm_OAy23l4/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R086",
@@ -5746,14 +5999,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=u7K61H-uZIE",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/u7K61H-uZIE/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R087",
@@ -5812,14 +6064,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=jJvajvHeSOs",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/jJvajvHeSOs/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R088",
@@ -5828,64 +6079,71 @@ window.RECIPES = [
     "en": "Chicken 65",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
-        "دجاج",
-        "Chicken"
+        "دجاج مكعبات",
+        "Chicken cubes"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "½ كوب زبادي",
+        "½ cup yogurt"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "2 م ك نشا ذرة",
+        "2 tbsp cornstarch"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "1 م ص زنجبيل وثوم مهروس",
+        "1 tsp ginger-garlic paste"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ص بابريكا",
+        "1 tsp paprika"
       ],
       [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
+        "½ م ص كركم",
+        "½ tsp turmeric"
       ],
       [
-        "ملح حسب الحاجة",
-        "Salt as needed"
+        "1 م ك صويا صوص",
+        "1 tbsp soy sauce"
+      ],
+      [
+        "1 م ك عصير ليمون",
+        "1 tbsp lemon juice"
+      ],
+      [
+        "فلفل أخضر وكزبرة",
+        "Green chili and coriander"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "تبلي الدجاج بالزبادي والنشا والبهارات 30 دقيقة.",
+        "Marinate chicken with yogurt, cornstarch and spices for 30 minutes."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "اقلي أو حمري الدجاج حتى يصبح مقرمشًا وينضج.",
+        "Fry or sear chicken until crisp and cooked."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "قلبي سريعًا مع الثوم والفلفل والصويا والليمون ثم زيني بالكزبرة.",
+        "Toss briefly with garlic, chili, soy and lemon; garnish with coriander."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=q5EQofH1L4o",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/q5EQofH1L4o/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R089",
@@ -5894,72 +6152,75 @@ window.RECIPES = [
     "en": "Chicken Curry",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "1 بصلة",
+        "1 onion"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "2 طماطم",
+        "2 tomatoes"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "¾ كوب حليب جوز هند أو كريمة",
+        "¾ cup coconut milk or cream"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ك كاري",
+        "1 tbsp curry powder"
       ],
       [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
+        "½ م ص كركم",
+        "½ tsp turmeric"
       ],
       [
-        "ملح حسب الحاجة",
-        "Salt as needed"
+        "1 م ص زنجبيل",
+        "1 tsp ginger"
       ],
       [
-        "1 كوب حليب جوز هند أو كريمة طبخ",
-        "1 cup coconut milk or cooking cream"
+        "2 فص ثوم",
+        "2 garlic cloves"
       ],
       [
-        "1½ م ك كاري",
-        "1½ tbsp curry powder"
+        "1 م ك زيت",
+        "1 tbsp oil"
+      ],
+      [
+        "ملح",
+        "Salt"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "حمري البصل ثم الثوم والزنجبيل والبهارات.",
+        "Brown onion, then add garlic, ginger and spices."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "أضيفي الطماطم واطهي حتى تتسبك.",
+        "Add tomatoes and cook until thick."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "أضيفي الدجاج ثم حليب جوز الهند واتركيه على نار هادئة حتى ينضج.",
+        "Add chicken and coconut milk; simmer until cooked."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=3Lvp4JscDYE",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/3Lvp4JscDYE/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R090",
@@ -5968,64 +6229,67 @@ window.RECIPES = [
     "en": "Lemon Chicken",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "⅓ كوب عصير ليمون",
+        "⅓ cup lemon juice"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "1 كوب مرق دجاج",
+        "1 cup chicken broth"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "2 فص ثوم",
+        "2 garlic cloves"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ك زبدة",
+        "1 tbsp butter"
       ],
       [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
+        "1 م ك نشا ذرة",
+        "1 tbsp cornstarch"
       ],
       [
-        "ملح حسب الحاجة",
-        "Salt as needed"
+        "1 م ك عسل اختياري",
+        "1 tbsp honey, optional"
+      ],
+      [
+        "ملح وفلفل",
+        "Salt and pepper"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "حمري الدجاج في قليل من الزيت ثم ارفعيه.",
+        "Brown chicken in a little oil, then remove."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "أضيفي الزبدة والثوم والمرق والليمون واتركيها تغلي بخفة.",
+        "Add butter, garlic, broth and lemon; simmer gently."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "ذوبي النشا بقليل ماء وأضيفيه، ثم أعيدي الدجاج حتى يتكثف الصوص وينضج.",
+        "Slurry cornstarch with water; add, then return chicken until sauce thickens and chicken cooks."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=hMDjyFc42Tc",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/hMDjyFc42Tc/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R091",
@@ -6034,64 +6298,67 @@ window.RECIPES = [
     "en": "Creamy Chicken & Potato Tray",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "4 بطاطس شرائح",
+        "4 potatoes, sliced"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "1 بصلة",
+        "1 onion"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "1 كوب كريمة طبخ",
+        "1 cup cooking cream"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "½ كوب جبن مبشور",
+        "½ cup shredded cheese"
+      ],
+      [
+        "2 فص ثوم",
+        "2 garlic cloves"
       ],
       [
         "½ م ص فلفل أسود",
         "½ tsp black pepper"
       ],
       [
-        "ملح حسب الحاجة",
-        "Salt as needed"
+        "ملح",
+        "Salt"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "سخني الفرن 200°م واسلقي البطاطس 5 دقائق فقط.",
+        "Heat oven to 200°C and parboil potatoes for 5 minutes."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "رتبي البطاطس والدجاج والبصل والثوم وتبليها.",
+        "Layer potatoes, chicken, onion and garlic; season."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "اسكبي الكريمة وغطي 35 دقيقة، ثم أضيفي الجبن واكشفي 15 دقيقة للتحمير.",
+        "Pour cream, cover 35 minutes, then add cheese and uncover 15 minutes to brown."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=SrAkJdt8bJg",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/SrAkJdt8bJg/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R092",
@@ -6146,14 +6413,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=1NUYkfAamz4",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/1NUYkfAamz4/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R093",
@@ -6162,88 +6428,83 @@ window.RECIPES = [
     "en": "Sweet & Sour Chicken with Rice",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
-        "دجاج",
-        "Chicken"
+        "دجاج مكعبات",
+        "Chicken cubes"
       ],
       [
-        "2½ كوب أرز بسمتي",
-        "2½ cups Basmati rice"
+        "1 فلفل أحمر",
+        "1 red bell pepper"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "1 فلفل أخضر",
+        "1 green bell pepper"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "½ بصلة",
+        "½ onion"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "½ كوب أناناس",
+        "½ cup pineapple"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "3 م ك كاتشب",
+        "3 tbsp ketchup"
       ],
       [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
-      ],
-      [
-        "ملح حسب الحاجة",
-        "Salt as needed"
-      ],
-      [
-        "⅓ كوب كاتشب",
-        "⅓ cup ketchup"
-      ],
-      [
-        "3 م ك خل",
-        "3 tbsp vinegar"
+        "2 م ك خل",
+        "2 tbsp vinegar"
       ],
       [
         "2 م ك سكر بني",
         "2 tbsp brown sugar"
       ],
       [
-        "1 فلفل رومي",
-        "1 bell pepper"
+        "1 م ك صويا صوص",
+        "1 tbsp soy sauce"
+      ],
+      [
+        "1 م ك نشا ذرة",
+        "1 tbsp cornstarch"
+      ],
+      [
+        "أرز مطبوخ للتقديم",
+        "Cooked rice to serve"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "حمري الدجاج حتى ينضج تقريبًا ثم ارفعيه.",
+        "Sear chicken until nearly cooked, then remove."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "قلبي البصل والفلفل والأناناس سريعًا.",
+        "Stir-fry onion, peppers and pineapple briefly."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "اخلطي الكاتشب والخل والسكر والصويا والنشا مع قليل ماء، وأضيفيها للمقلاة.",
+        "Mix ketchup, vinegar, sugar, soy and cornstarch with a little water; add to pan."
       ],
       [
-        "اطهي الأرز بالمرق على نار هادئة حتى يمتص السائل ويصبح مفلفلًا.",
-        "Cook rice in broth over low heat until liquid is absorbed and grains are fluffy."
+        "أعيدي الدجاج وقلبي حتى يغلظ الصوص وقدميه مع الأرز.",
+        "Return chicken; toss until sauce thickens and serve with rice."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=curED3GE3Y4",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/curED3GE3Y4/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R094",
@@ -6252,72 +6513,75 @@ window.RECIPES = [
     "en": "Chinese Cashew Chicken with Vegetables",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
-        "دجاج",
-        "Chicken"
+        "دجاج مكعبات",
+        "Chicken cubes"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "¾ كوب كاجو",
+        "¾ cup cashews"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "1 فلفل رومي",
+        "1 bell pepper"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
-      ],
-      [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
-      ],
-      [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
-      ],
-      [
-        "ملح حسب الحاجة",
-        "Salt as needed"
-      ],
-      [
-        "½ كوب كاجو غير مملح",
-        "½ cup unsalted cashews"
+        "½ بصلة",
+        "½ onion"
       ],
       [
         "2 م ك صويا صوص",
         "2 tbsp soy sauce"
+      ],
+      [
+        "1 م ك صوص أويستر اختياري",
+        "1 tbsp oyster sauce, optional"
+      ],
+      [
+        "1 م ص نشا ذرة",
+        "1 tsp cornstarch"
+      ],
+      [
+        "1 م ص زيت سمسم",
+        "1 tsp sesame oil"
+      ],
+      [
+        "2 فص ثوم",
+        "2 garlic cloves"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "حمصي الكاجو سريعًا ثم ارفعيه.",
+        "Toast cashews briefly, then remove."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "حمري الدجاج على نار عالية ثم أضيفي البصل والفلفل والثوم.",
+        "Sear chicken over high heat, then add onion, pepper and garlic."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "أضيفي الصويا والأويستر والنشا المذاب وقليل ماء.",
+        "Add soy, oyster sauce, dissolved cornstarch and a little water."
+      ],
+      [
+        "أعيدي الكاجو وقلبي دقيقة ثم قدمي.",
+        "Return cashews, toss for 1 minute and serve."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=curED3GE3Y4",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/curED3GE3Y4/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R095",
@@ -6326,76 +6590,67 @@ window.RECIPES = [
     "en": "Chicken & Vegetable Noodles",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
-        "دجاج",
-        "Chicken"
+        "دجاج شرائح",
+        "Chicken strips"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "250 غ نودلز",
+        "250 g noodles"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "1 جزرة",
+        "1 carrot"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "1 فلفل رومي",
+        "1 bell pepper"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
-      ],
-      [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
-      ],
-      [
-        "ملح حسب الحاجة",
-        "Salt as needed"
-      ],
-      [
-        "300 غ نودلز",
-        "300 g noodles"
+        "1 كوب ملفوف شرائح",
+        "1 cup shredded cabbage"
       ],
       [
         "2 م ك صويا صوص",
         "2 tbsp soy sauce"
       ],
       [
-        "2 كوب خضار شرائح",
-        "2 cups sliced vegetables"
+        "1 م ص زيت سمسم",
+        "1 tsp sesame oil"
+      ],
+      [
+        "2 فص ثوم",
+        "2 garlic cloves"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "اسلقي النودلز حسب العبوة وصفيها.",
+        "Cook noodles per package and drain."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "حمري الدجاج في ووك ساخن ثم أضيفي الخضار والثوم.",
+        "Sear chicken in a hot wok, then add vegetables and garlic."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "أضيفي النودلز والصويا وزيت السمسم وقلبي 2–3 دقائق.",
+        "Add noodles, soy and sesame oil; toss 2–3 minutes."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=7wuwkKEwHIU",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/7wuwkKEwHIU/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R096",
@@ -6404,88 +6659,71 @@ window.RECIPES = [
     "en": "Chicken & Vegetable Fried Rice",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
-        "دجاج",
-        "Chicken"
+        "دجاج مكعبات صغيرة",
+        "Small chicken cubes"
       ],
       [
-        "2½ كوب أرز بسمتي",
-        "2½ cups Basmati rice"
-      ],
-      [
-        "1 بصلة متوسطة",
-        "1 medium onion"
-      ],
-      [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
-      ],
-      [
-        "2 م ك زيت",
-        "2 tbsp oil"
-      ],
-      [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
-      ],
-      [
-        "½ م ص فلفل أسود",
-        "½ tsp black pepper"
-      ],
-      [
-        "ملح حسب الحاجة",
-        "Salt as needed"
-      ],
-      [
-        "3 أكواب أرز مطبوخ وبارد",
-        "3 cups cooked, chilled rice"
+        "3 أكواب أرز بارد مطبوخ",
+        "3 cups cold cooked rice"
       ],
       [
         "2 بيض",
         "2 eggs"
       ],
       [
-        "2 م ك صويا صوص",
-        "2 tbsp soy sauce"
+        "½ كوب بازلاء",
+        "½ cup peas"
       ],
       [
-        "1½ كوب خضار مشكلة",
-        "1½ cups mixed vegetables"
+        "½ كوب جزر مكعبات",
+        "½ cup diced carrots"
+      ],
+      [
+        "3 م ك صويا صوص",
+        "3 tbsp soy sauce"
+      ],
+      [
+        "2 بصل أخضر",
+        "2 spring onions"
+      ],
+      [
+        "1 م ك زيت",
+        "1 tbsp oil"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "استخدمي أرزًا باردًا مطبوخًا مسبقًا.",
+        "Use previously cooked cold rice."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "حمري الدجاج ثم ادفعيه جانبًا واطهي البيض في نفس المقلاة.",
+        "Sear chicken, push aside and scramble eggs in the same pan."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "أضيفي الجزر والبازلاء ثم الأرز وارفعي النار.",
+        "Add carrots and peas, then rice; increase heat."
       ],
       [
-        "اطهي الأرز بالمرق على نار هادئة حتى يمتص السائل ويصبح مفلفلًا.",
-        "Cook rice in broth over low heat until liquid is absorbed and grains are fluffy."
+        "أضيفي الصويا والبصل الأخضر وقلبي حتى يسخن الأرز ويصبح مفلفلًا.",
+        "Add soy and spring onion; toss until rice is hot and separate."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=mI2zq3kQ5dQ",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/mI2zq3kQ5dQ/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R097",
@@ -6560,14 +6798,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=alGJR4W4OOQ",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/alGJR4W4OOQ/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R098",
@@ -6622,14 +6859,13 @@ window.RECIPES = [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=SYy5uCNkVfY",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "checked-v5.1",
+    "image": "https://i.ytimg.com/vi/SYy5uCNkVfY/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R099",
@@ -6638,64 +6874,71 @@ window.RECIPES = [
     "en": "Homemade Musahab Chicken",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
-        "دجاج",
-        "Chicken"
+        "دجاج شرائح",
+        "Chicken strips"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "1 كوب لبن رائب",
+        "1 cup buttermilk"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "1 كوب دقيق أبيض متعدد الاستخدامات",
+        "1 cup all-purpose flour"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "½ كوب نشا",
+        "½ cup cornstarch"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "1 م ص بابريكا",
+        "1 tsp paprika"
+      ],
+      [
+        "1 م ص ثوم بودرة",
+        "1 tsp garlic powder"
       ],
       [
         "½ م ص فلفل أسود",
         "½ tsp black pepper"
       ],
       [
-        "ملح حسب الحاجة",
-        "Salt as needed"
+        "ملح",
+        "Salt"
+      ],
+      [
+        "زيت للقلي",
+        "Oil for frying"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "انقعي الدجاج في اللبن والملح والبهارات 2 ساعة.",
+        "Marinate chicken in buttermilk, salt and spices for 2 hours."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "اخلطي الدقيق والنشا والبهارات وغلّفي الدجاج جيدًا.",
+        "Mix flour, cornstarch and spices; coat chicken well."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "اقلي على 170–175°م حتى يصبح ذهبيًا وينضج من الداخل.",
+        "Fry at 170–175°C until golden and cooked through."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=pguE1j81s7k",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/pguE1j81s7k/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R100",
@@ -6704,64 +6947,71 @@ window.RECIPES = [
     "en": "Chicken, Potato & Béchamel Tray",
     "category": "chicken",
     "servings": "4 حصص قياسية | 4 standard portions",
-    "prep": "15–25 دقيقة | 15–25 min",
-    "cook": "30–60 دقيقة | 30–60 min",
+    "prep": "20 دقيقة | 20 min",
+    "cook": "40 دقيقة | 40 min",
     "ingredients": [
       [
         "دجاج",
         "Chicken"
       ],
       [
-        "1 بصلة متوسطة",
-        "1 medium onion"
+        "4 بطاطس شرائح",
+        "4 potatoes, sliced"
       ],
       [
-        "3 فصوص ثوم",
-        "3 garlic cloves"
+        "2 م ك زبدة",
+        "2 tbsp butter"
       ],
       [
-        "2 م ك زيت",
-        "2 tbsp oil"
+        "2 م ك دقيق أبيض متعدد الاستخدامات",
+        "2 tbsp all-purpose flour"
       ],
       [
-        "1 م ص بهار مشكل مناسب للطبق",
-        "1 tsp mixed spice suitable for the dish"
+        "2 كوب حليب",
+        "2 cups milk"
+      ],
+      [
+        "1 كوب جبن مبشور",
+        "1 cup shredded cheese"
       ],
       [
         "½ م ص فلفل أسود",
         "½ tsp black pepper"
       ],
       [
-        "ملح حسب الحاجة",
-        "Salt as needed"
+        "ملح",
+        "Salt"
       ]
     ],
     "steps": [
       [
-        "تبلي الدجاج واتركيه 15–30 دقيقة إذا سمح الوقت.",
-        "Season chicken and rest 15–30 minutes if time allows."
+        "سخني الفرن 200°م واسلقي البطاطس 5 دقائق.",
+        "Heat oven to 200°C and parboil potatoes 5 minutes."
       ],
       [
-        "شوحي البصل والثوم على نار متوسطة ثم أضيفي الدجاج والبهارات.",
-        "Sauté onion and garlic over medium heat, then add chicken and spices."
+        "اطهي الدجاج حتى يقارب النضج ورتبيه مع البطاطس في الصينية.",
+        "Cook chicken until nearly done and layer with potatoes in tray."
       ],
       [
-        "أكملي الطهي حسب طبيعة الطبق حتى ينضج الدجاج تمامًا وتصبح العصارة صافية.",
-        "Finish according to the dish until chicken is fully cooked and juices run clear."
+        "حضري البشاميل: ذوبي الزبدة، أضيفي الدقيق ثم الحليب تدريجيًا حتى يثخن.",
+        "Make béchamel: melt butter, add flour, then gradually whisk in milk until thick."
+      ],
+      [
+        "اسكبي البشاميل وأضيفي الجبن واخبزي 25–30 دقيقة حتى يتحمر السطح.",
+        "Pour béchamel, add cheese and bake 25–30 minutes until browned."
       ]
     ],
     "variations": [
       [
         "يمكن تعديل الحار والملح والبهارات حسب رغبة البيت.",
         "Adjust heat, salt and spices to household preference."
-      ],
-      [
-        "عند اعتماد فيديو محدد لاحقًا تُحدّث هذه البطاقة لتطابقه دون تغيير رابطها.",
-        "When a specific video is approved later, this card can be updated to match it without changing its URL."
       ]
     ],
     "video1": "https://www.youtube.com/watch?v=JsCy7IL-FpI",
-    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video"
+    "videoLabel1": "🎥 الفيديو المعتمد | Selected Video",
+    "auditStatus": "reviewed-v5.1",
+    "image": "https://i.ytimg.com/vi/JsCy7IL-FpI/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R101",
@@ -6857,7 +7107,11 @@ window.RECIPES = [
         "قدمي المعرق ساخنًا بجانب الأرز الأبيض.",
         "Serve the hot meat maraq beside the white rice."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/CWPdmDOrSZk/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R102",
@@ -6957,7 +7211,11 @@ window.RECIPES = [
         "قدمي المعرق مع الأرز والمرق حسب الرغبة.",
         "Serve the maraq with rice and as much broth as desired."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/64TVlX_gsn4/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R103",
@@ -7041,7 +7299,11 @@ window.RECIPES = [
         "قلّبي الأرز بخفة وقدميه مع الدجاج.",
         "Fluff the rice gently and serve with chicken."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/RcDxTegY114/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R104",
@@ -7125,7 +7387,11 @@ window.RECIPES = [
         "قلّبي الأرز وقدمي اللحم فوقه.",
         "Fluff the rice and serve the meat on top."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/sWCyuolzLDA/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R105",
@@ -7209,7 +7475,11 @@ window.RECIPES = [
         "قلّبي بخفة حتى تتوزع الخضار دون أن تهرس.",
         "Fluff gently so vegetables are distributed without mashing."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/TRQUAnSXAt8/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R106",
@@ -7293,7 +7563,11 @@ window.RECIPES = [
         "قدمي اللحم فوق الأرز مع ليمون أو سلطة.",
         "Serve meat over the rice with lemon or salad."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/61yA7R2oqok/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R107",
@@ -7381,7 +7655,11 @@ window.RECIPES = [
         "يمكن تحمير الدجاج في الفرن 220°م لمدة 8–10 دقائق ثم تقديمه فوق الأرز الأبيض المتبل.",
         "Optionally brown chicken at 220°C for 8–10 minutes, then serve over the spiced white rice."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/bjN6ho-lYMU/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R108",
@@ -7461,7 +7739,11 @@ window.RECIPES = [
         "قدمي اللحم فوق الأرز مع سلطة أو دقوس خفيف.",
         "Serve meat over the rice with salad or a light daqoos."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/61yA7R2oqok/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R109",
@@ -7545,7 +7827,11 @@ window.RECIPES = [
         "اطبخي الأرز الأبيض منفصلًا وقدميه مع مرق البامية.",
         "Cook white rice separately and serve with the okra stew."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/V5FkHA4W3kk/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R110",
@@ -7625,7 +7911,11 @@ window.RECIPES = [
         "قدميها مع أرز أبيض مطبوخ منفصلًا.",
         "Serve with separately cooked white rice."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/MCocPw0hr5k/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R111",
@@ -7701,7 +7991,11 @@ window.RECIPES = [
         "قدمي اليخنة مع الأرز الأبيض.",
         "Serve the stew with white rice."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/t_y74gbhFts/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R112",
@@ -7781,7 +8075,11 @@ window.RECIPES = [
         "قدميها مع الأرز الأبيض المطبوخ منفصلًا.",
         "Serve with separately cooked white rice."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/TRQUAnSXAt8/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R113",
@@ -7865,7 +8163,11 @@ window.RECIPES = [
         "اضبطي الملح والسماكة؛ المرق النهائي يجب أن يكون أحمر ومتوسط السماكة.",
         "Adjust salt and thickness; the final broth should be red and medium-bodied."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/5UKQo3VzCbg/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R114",
@@ -7949,7 +8251,11 @@ window.RECIPES = [
         "قدمي الدجاج فوق الأرز، ويمكن إضافة بصل محمّر أو زبيب.",
         "Serve chicken over the rice; fried onion or raisins may be added."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/Zesm9hRMko0/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R115",
@@ -8033,7 +8339,11 @@ window.RECIPES = [
         "قدمي اللحم فوق الأرز مع الدقوس.",
         "Serve meat over rice with daqoos."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/5OnbW2UZAew/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R116",
@@ -8109,7 +8419,11 @@ window.RECIPES = [
         "قلّبي الرز بخفة وقدمي الدجاج فوقه.",
         "Fluff rice gently and serve chicken on top."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/x5vg_rcToc0/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R117",
@@ -8181,7 +8495,11 @@ window.RECIPES = [
         "قدمي اللحم فوق الرز.",
         "Serve meat over the rice."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/BeLWdUNHVu4/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R118",
@@ -8253,7 +8571,11 @@ window.RECIPES = [
         "اتركي الرز 5 دقائق ثم قلّبيه بخفة.",
         "Rest rice 5 minutes, then fluff gently."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/TRQUAnSXAt8/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R119",
@@ -8325,7 +8647,11 @@ window.RECIPES = [
         "قلّبي بخفة وقدمي اللحم فوق الرز.",
         "Fluff gently and serve meat over rice."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/sVji8bzpMUU/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R120",
@@ -8409,7 +8735,11 @@ window.RECIPES = [
         "قلّبي الخضار مع الرز بلطف قبل التقديم.",
         "Gently fold vegetables through the rice before serving."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/Gb-2ZerwSmg/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R121",
@@ -8485,7 +8815,11 @@ window.RECIPES = [
         "قلّبي الرز والخضار بخفة وقدمي اللحم فوقها.",
         "Fluff rice and vegetables gently and serve meat on top."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/PCayeEy0uxc/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R122",
@@ -8565,7 +8899,11 @@ window.RECIPES = [
         "قلّبي بخفة وقدمي مباشرة.",
         "Fluff gently and serve immediately."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/audvl3BmY6s/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R123",
@@ -8637,7 +8975,11 @@ window.RECIPES = [
         "قلّبي بخفة وقدمي اللحم فوق الرز.",
         "Fluff gently and serve meat over the rice."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/4WIy_2xm1Sc/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R124",
@@ -8717,7 +9059,11 @@ window.RECIPES = [
         "اخلطي الزبادي والثوم والملح، وقدمي الملفوف على طبقة الزبادي أو بجانبها حسب الرغبة.",
         "Mix yogurt, garlic and salt; serve cabbage over or beside the yogurt as desired."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/gnmGh7BjhBA/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R125",
@@ -8801,7 +9147,11 @@ window.RECIPES = [
         "قدمي ورق العنب فوق صوص الزبادي أو بجانبه.",
         "Serve grape leaves over or beside the yogurt sauce."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/vlTODMwDcv4/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R126",
@@ -8889,7 +9239,11 @@ window.RECIPES = [
         "حمصي الصامولي قليلًا، ادهنيه بالمايونيز، أضيفي الخس والحشوة وقدمي فورًا.",
         "Lightly toast rolls, spread with mayonnaise, add lettuce and filling, and serve immediately."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/SBeA_N75SDM/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R127",
@@ -8965,7 +9319,11 @@ window.RECIPES = [
         "ضعي الجبن فوق الحشوة الساخنة ثم احشي الصامولي وقدميه ساخنًا.",
         "Melt cheese over the hot filling, stuff the rolls and serve hot."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/cXbr5fLC318/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R128",
@@ -9033,7 +9391,11 @@ window.RECIPES = [
         "حمصي الخبز وركبي البرجر مع الصوص والخس والطماطم والبصل.",
         "Toast buns and assemble with sauces, lettuce, tomato and onion."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/6Wr8N4vynUU/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R129",
@@ -9113,7 +9475,11 @@ window.RECIPES = [
         "حمصي الخبز وقدمي مع الخس والمايونيز.",
         "Toast buns and serve with lettuce and mayonnaise."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/FGigHdnw60A/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R130",
@@ -9193,7 +9559,11 @@ window.RECIPES = [
         "ركبي الساندوتش مع المايونيز والخس والمخلل.",
         "Assemble with mayonnaise, lettuce and pickles."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/Qj-HD6ideFE/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R131",
@@ -9273,7 +9643,11 @@ window.RECIPES = [
         "لفي الساندوتش وحمريه دقيقة على الصاج قبل التقديم.",
         "Roll and toast for about 1 minute on a griddle before serving."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/1Xcpn4tZR28/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R132",
@@ -9349,7 +9723,11 @@ window.RECIPES = [
         "لفي الساندوتش وقدميه ساخنًا.",
         "Roll and serve hot."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/L5HFRAc_fHM/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R133",
@@ -9429,7 +9807,11 @@ window.RECIPES = [
         "احشي الخبز وقدميه ساخنًا.",
         "Fill bread and serve hot."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/HlkXSGVU_x8/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R134",
@@ -9501,7 +9883,11 @@ window.RECIPES = [
         "احشي الصامولي وقدمي فورًا.",
         "Fill rolls and serve immediately."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/cXbr5fLC318/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R135",
@@ -9585,7 +9971,11 @@ window.RECIPES = [
         "لفي وحمري الساندوتش قليلًا قبل التقديم.",
         "Roll and lightly toast before serving."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/dRq4uQG8I8M/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R136",
@@ -9661,7 +10051,11 @@ window.RECIPES = [
         "قدميها في الخبز مع الخس والطماطم وصوص الثوم.",
         "Serve in bread with lettuce, tomato and garlic sauce."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/8O7FsUU0Tio/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R137",
@@ -9733,7 +10127,11 @@ window.RECIPES = [
         "لفي الساندوتش وحمريه على صاج ساخن دقيقة لكل جهة.",
         "Roll and toast on a hot griddle about 1 minute per side."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/F_fWfdmszMU/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R138",
@@ -9797,7 +10195,11 @@ window.RECIPES = [
         "ادهني الخبز بقليل من المايونيز وانقلي الحشوة الساخنة إليه.",
         "Spread buns with a little mayonnaise and add the hot filling."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/9jIjBc6cG70/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R139",
@@ -9881,7 +10283,11 @@ window.RECIPES = [
         "أضيفي الصوص والخس والطماطم ثم شرائح الدجاج وقدمي.",
         "Add sauce, lettuce, tomato and sliced chicken; serve."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/fXYtJjiPAOU/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   },
   {
     "code": "R140",
@@ -9961,6 +10367,10 @@ window.RECIPES = [
         "قدمي مباشرة أو حمصي الساندوتش قليلًا حسب الرغبة.",
         "Serve immediately or lightly toast the sandwich if desired."
       ]
-    ]
+    ],
+    "auditStatus": "checked-v5.1",
+    "variations": [],
+    "image": "https://i.ytimg.com/vi/8d6PaDQRwVg/hqdefault.jpg",
+    "imageSource": "youtube-video-thumbnail"
   }
 ];
